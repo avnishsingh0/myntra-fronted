@@ -1,0 +1,26 @@
+export const ADMIN_REQUEST="ADMIN_REQUEST"
+export const ADMIN_ERROR="ADMIN_ERROR"
+export const GET_ADMIN_SUCESS="GET_ADMIN_SUCESS"
+export const POST_ADMIN_SUCESS="POST_ADMIN_SUCESS"
+
+
+
+export const WINTER_DATA_REQUEST = "WINTER_DATA_REQUEST";
+export const WINTER_DATA_SUCCESS = "WINTER_DATA_SUCCESS";
+export const WINTER_DATA_FAILURE = "WINTER_DATA_FAILURE";
+
+
+export const SINGLE_PRODUCT_DATA_REQUEST = "SINGLE_PRODUCT_DATA_REQUEST";
+export const SINGLE_PRODUCT_DATA_SUCCESS = "SINGLE_PRODUCT_DATA_SUCCESS";
+export const SINGLE_PRODUCT_DATA_FAILURE = "SINGLE_PRODUCT_DATA_FAILURE";
+
+
+export const ADD_TO_CART_SUCCESS = "ADD_TO_CART_SUCCESS";
+
+
+
+export const GET_CART_LOADING = "get/cart/loading"
+export const GET_CART_SUCCESS = "get/cart/success"
+export const GET_CART_ERROR = "get/cart/error"
+export const DELETE_CART_PRODUCT = "delete/cart/product"
+
